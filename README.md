@@ -2,7 +2,8 @@
 
 ## Dashboard Preview 
 
-<img width="490" height="395" alt="image" src="https://github.com/user-attachments/assets/6a89fdc2-484c-4b1a-b775-712bcf903d13" />
+[Click to View Dashboard](<img width="538" height="395" alt="image" src="https://github.com/user-attachments/assets/85bc67fd-33c7-4913-a4a9-416df3b0f6c5" />
+)
 
 ## Live Dashboard
 
