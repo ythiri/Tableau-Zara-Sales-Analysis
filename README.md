@@ -30,15 +30,21 @@ Others:
 Product Type: 
 
 The jackets category dominates both in price and sales volume. Additionally, most of the top performing products are jackets. 
+
 The sweaters category generates the second most revenue in the product type, and sales volume matches with this trend. However, the products in the sweater category have the lowest average price. 
 
 Section:
 
 The men's section dominates the women's section in sales volume. However, the relevant percentage is proportional to the number of products available in each section. 
+
 Except for one product, Zara’s top performing products are in the men's section. 
+
 There is almost a $1 million difference between men’s top three performing products and women’s top three performing products. 
+
 Others:
+
 The largest amount of products sold comes from products placed in the aisle, then products placed in the end-cap, and then in front of the store. This is also true for men’s products. However, for women’s products, the end-cap position is the most popular, followed by the front and then the aisle. 
+
 There is not a huge noticeable difference between promotional vs non-promotional revenue, seasonal vs non-seasonal revenue, or the revenue that comes from a mixture of them. 
 
 ## Recommendations & Next Steps
