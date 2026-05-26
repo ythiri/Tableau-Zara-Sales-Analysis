@@ -22,15 +22,18 @@ Section: Men or women
 
 Others:
 
-Product Position: Aisle, end-cap, or front of store
+  Product Position: Aisle, end-cap, or front of store
 
-Seasonal and Promotion: Whether the product is part of a seasonal collection (seasonal or non-seasonal) and/or currently on promotion (promotional or non-promotional)
+  Seasonal and Promotion: Whether the product is part of a seasonal collection (seasonal or non-seasonal) and/or currently on promotion (promotional or non-promotional)
 
 ## Summary of Insights 
 Product Type: 
+
 The jackets category dominates both in price and sales volume. Additionally, most of the top performing products are jackets. 
 The sweaters category generates the second most revenue in the product type, and sales volume matches with this trend. However, the products in the sweater category have the lowest average price. 
+
 Section:
+
 The men's section dominates the women's section in sales volume. However, the relevant percentage is proportional to the number of products available in each section. 
 Except for one product, Zara’s top performing products are in the men's section. 
 There is almost a $1 million difference between men’s top three performing products and women’s top three performing products. 
